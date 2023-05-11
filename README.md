@@ -1,6 +1,11 @@
 # hrvatska-u-JSONu
 Ovaj repozitorij je kolekcija JSON fileova sa različitim informacijama o Hrvatskoj koji bi mogli zatrebati programerima
 
+Za sada sadrži sljedeće podatke:
+
+ - sva naselja u RH sa pripadnom općinom, županijom i poštanskim brojem
+ - sve županije u RH
+
 ## Izvori
 
 Ovaj repozitorij napravljen je prema postojećim izvorima informacija.

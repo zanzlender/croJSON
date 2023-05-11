@@ -1,5 +1,7 @@
 # hrvatska-u-JSONu
 
+[![croJSON logo](/docs/assets/croJSON_logo.png)](/docs/assets/croJSON_logo.png)
+
 > ✨
 > Ovaj repozitorij je kolekcija JSON fileova sa različitim informacijama o Hrvatskoj koji bi mogli zatrebati programerima
 > ✨

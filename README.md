@@ -1,4 +1,4 @@
-# hrvatska-u-JSONu
+# Hrvatska u JSON formatu
 
 [![croJSON logo](/docs/assets/croJSON_logo.png)](/docs/assets/croJSON_logo.png)
 

@@ -1,0 +1,86 @@
+[
+  {
+    "id": 1,
+    "name": "Zagrebačka"
+  },
+  {
+    "id": 2,
+    "name": "Krapinsko-zagorska"
+  },
+  {
+    "id": 3,
+    "name": "Sisačko-moslavačka"
+  },
+  {
+    "id": 4,
+    "name": "Karlovačka"
+  },
+  {
+    "id": 5,
+    "name": "Varaždinska"
+  },
+  {
+    "id": 6,
+    "name": "Koprivničko-križevačka"
+  },
+  {
+    "id": 7,
+    "name": "Bjelovarsko-bilogorska"
+  },
+  {
+    "id": 8,
+    "name": "Primorsko-goranska"
+  },
+  {
+    "id": 9,
+    "name": "Ličko-senjska"
+  },
+  {
+    "id": 10,
+    "name": "Virovitičko-podravska"
+  },
+  {
+    "id": 11,
+    "name": "Požeško-slavonska"
+  },
+  {
+    "id": 12,
+    "name": "Brodsko-posavska"
+  },
+  {
+    "id": 13,
+    "name": "Zadarska"
+  },
+  {
+    "id": 14,
+    "name": "Osječko-baranjska"
+  },
+  {
+    "id": 15,
+    "name": "Šibensko-kninska"
+  },
+  {
+    "id": 16,
+    "name": "Vukovarsko-srijemska"
+  },
+  {
+    "id": 17,
+    "name": "Splitsko-dalmatinska"
+  },
+  {
+    "id": 18,
+    "name": "Istarska"
+  },
+  {
+    "id": 19,
+    "name": "Dubrovačko-neretvanska"
+  },
+  {
+    "id": 20,
+    "name": "Međimurska"
+  },
+  {
+    "id": 21,
+    "name": "Grad Zagreb"
+  }
+]

@@ -4,5 +4,6 @@ module.exports = {
 	theme: {
 		extend: {},
 	},
-	plugins: [],
+  safelist: ['dark:!text-white'],
+	plugins: [require('@tailwindcss/typography')],
 }

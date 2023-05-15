@@ -6,14 +6,14 @@
 > Ovaj repozitorij je kolekcija JSON fileova sa različitim informacijama o Hrvatskoj koji bi mogli zatrebati programerima
 > ✨
 
-***
+---
 
 Svi podaci nalaze se u `/data` folderu.
 
 Za sada sadrži sljedeće podatke:
 
- - sva naselja u RH sa pripadnom općinom, županijom i poštanskim brojem
- - sve županije u RH
+- sva naselja u RH sa pripadnom općinom, županijom i poštanskim brojem
+- sve županije u RH
 
 ## Planovi i proširenja
 

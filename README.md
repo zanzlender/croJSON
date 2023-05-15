@@ -13,6 +13,11 @@ Za sada sadrži sljedeće podatke:
  - sva naselja u RH sa pripadnom općinom, županijom i poštanskim brojem
  - sve županije u RH
 
+## Planovi i proširenja
+
+- Dokumentacija (showcase + ease of use) - **u procesu**
+- telefonski brojevi
+
 ## Izvori
 
 Ovaj repozitorij napravljen je prema postojećim izvorima informacija.

@@ -1,0 +1,86 @@
+[
+  {
+    "id": 1,
+    "naziv": "Zagrebačka"
+  },
+  {
+    "id": 2,
+    "naziv": "Krapinsko-zagorska"
+  },
+  {
+    "id": 3,
+    "naziv": "Sisačko-moslavačka"
+  },
+  {
+    "id": 4,
+    "naziv": "Karlovačka"
+  },
+  {
+    "id": 5,
+    "naziv": "Varaždinska"
+  },
+  {
+    "id": 6,
+    "naziv": "Koprivničko-križevačka"
+  },
+  {
+    "id": 7,
+    "naziv": "Bjelovarsko-bilogorska"
+  },
+  {
+    "id": 8,
+    "naziv": "Primorsko-goranska"
+  },
+  {
+    "id": 9,
+    "naziv": "Ličko-senjska"
+  },
+  {
+    "id": 10,
+    "naziv": "Virovitičko-podravska"
+  },
+  {
+    "id": 11,
+    "naziv": "Požeško-slavonska"
+  },
+  {
+    "id": 12,
+    "naziv": "Brodsko-posavska"
+  },
+  {
+    "id": 13,
+    "naziv": "Zadarska"
+  },
+  {
+    "id": 14,
+    "naziv": "Osječko-baranjska"
+  },
+  {
+    "id": 15,
+    "naziv": "Šibensko-kninska"
+  },
+  {
+    "id": 16,
+    "naziv": "Vukovarsko-srijemska"
+  },
+  {
+    "id": 17,
+    "naziv": "Splitsko-dalmatinska"
+  },
+  {
+    "id": 18,
+    "naziv": "Istarska"
+  },
+  {
+    "id": 19,
+    "naziv": "Dubrovačko-neretvanska"
+  },
+  {
+    "id": 20,
+    "naziv": "Međimurska"
+  },
+  {
+    "id": 21,
+    "naziv": "Grad Zagreb"
+  }
+]

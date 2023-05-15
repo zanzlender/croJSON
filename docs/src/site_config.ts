@@ -1,10 +1,11 @@
 // This file contains the site configuration for the theme.
 
 // Metadata, SEO, and Social
-export const SITE_TITLE = "Manual Theme";
-export const SITE_DESCRIPTION = "A documentation template for Astro";
-export const SITE_URL = "https://manual.otterlord.dev";
-export const SITE_DEFAULT_OG_IMAGE = "/assets/og-image.png";
+export const SITE_TITLE = "croJSON";
+export const SITE_DESCRIPTION =
+  "Kolekcija JSON fileova sa različitim informacijama o Hrvatskoj koji bi mogli zatrebati programerima.";
+export const SITE_URL = "https://cro-json.vercel.app/";
+export const SITE_DEFAULT_OG_IMAGE = "/logo.png";
 
 // Docs Sidebar
 // Define the left sidebar items here.

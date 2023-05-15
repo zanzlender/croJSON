@@ -8,6 +8,8 @@
 
 ***
 
+Svi podaci nalaze se u `/data` folderu.
+
 Za sada sadrži sljedeće podatke:
 
  - sva naselja u RH sa pripadnom općinom, županijom i poštanskim brojem

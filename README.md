@@ -8,6 +8,10 @@
 
 ---
 
+Za sve informacije pročitaj [našu dokumentaciju](https://cro-json.vercel.app/).
+
+---
+
 Svi podaci nalaze se u `/data` folderu.
 
 Za sada sadrži sljedeće podatke:

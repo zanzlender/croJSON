@@ -60,7 +60,7 @@ import { Icon } from "astro-iconify";
       document.querySelector("#search")?.parentElement.classList.remove("flex");
     });
 
-    document.querySelector("#search")?.addEventListener("input", async (e) => {
+    /* document.querySelector("#search")?.addEventListener("input", async (e) => {
       // only load the pagefind script once
       if (e.target.dataset.loaded !== "true") {
         e.target.dataset.loaded = "true";
@@ -83,6 +83,6 @@ import { Icon } from "astro-iconify";
           <p>${data.excerpt}</p>
         </a>`;
       }
-    });
+    }); */
   </script>
 </nav>

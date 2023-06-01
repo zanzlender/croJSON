@@ -10,8 +10,8 @@ Sve Hrvatske županije sa dodijeljenim ID-jevima.
 
 ### Hrvatski JSON
 
-- [zupanije_HR.json](https://github.com/zanzlender/croJSON/blob/main/datazupanije/zupanije_HR.json)
-- [zupanije_HR_minified.json](https://github.com/zanzlender/croJSON/blob/main/datazupanije/zupanije_HR_minified.json)
+- [zupanije_HR.json](https://github.com/zanzlender/croJSON/blob/main/data/zupanije/zupanije_HR.json)
+- [zupanije_HR_minified.json](https://github.com/zanzlender/croJSON/blob/main/data/zupanije/zupanije_HR_minified.json)
 
 **Shema**
 
@@ -36,7 +36,7 @@ Sve Hrvatske županije sa dodijeljenim ID-jevima.
 
 ### Hrvatski CSV
 
-- [zupanije_HR.csv](https://github.com/zanzlender/croJSON/blob/main/datazupanije/zupanije_HR.csv)
+- [zupanije_HR.csv](https://github.com/zanzlender/croJSON/blob/main/data/zupanije/zupanije_HR.csv)
 
 **Shema**
 
@@ -58,8 +58,8 @@ Sve Hrvatske županije sa dodijeljenim ID-jevima.
 
 ### Engleski JSON
 
-- [zupanije_EN.json](https://github.com/zanzlender/croJSON/blob/main/datazupanije/zupanije_EN.json)
-- [zupanije_EN_minified.json](https://github.com/zanzlender/croJSON/blob/main/datazupanije/zupanije_HR_minified.json)
+- [zupanije_EN.json](https://github.com/zanzlender/croJSON/blob/main/data/zupanije/zupanije_EN.json)
+- [zupanije_EN_minified.json](https://github.com/zanzlender/croJSON/blob/main/data/zupanije/zupanije_HR_minified.json)
 
 ```js
 {
@@ -82,7 +82,7 @@ Sve Hrvatske županije sa dodijeljenim ID-jevima.
 
 ### Engleski CSV
 
-- [zupanije_EN.csv](https://github.com/zanzlender/croJSON/blob/main/datazupanije/zupanije_EN.csv)
+- [zupanije_EN.csv](https://github.com/zanzlender/croJSON/blob/main/data/zupanije/zupanije_EN.csv)
 
 **Shema**
 
